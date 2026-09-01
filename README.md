@@ -60,6 +60,3 @@ The purpose of this repository is to document my weekly progress, strengthen my 
 
 > “The capacity to learn is a gift; the ability to learn is a skill; the willingness to learn is a choice.” ✨
 
-### Shams
-
-Artificial Intelligence Student 🤖
